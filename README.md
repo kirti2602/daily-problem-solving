@@ -9,6 +9,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kirti2602/daily-problem-solving/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kirti2602/daily-problem-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -30,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
