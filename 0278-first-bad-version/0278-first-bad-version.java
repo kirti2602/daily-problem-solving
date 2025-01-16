@@ -3,8 +3,8 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int start = 1;
-        int end = n;
+        int start = 0;
+        int end = n-1;
 
         if(n == 1 && isBadVersion(1)){
             return 1;
@@ -13,13 +13,13 @@ public class Solution extends VersionControl {
         while(start < end){
             int mid = start + (end - start)/2;
 
-            if(!isBadVersion(mid)){
-                start = mid+1;
-            } else{
+            if(isBadVersion(mid+1)){
                 end = mid;
+            }else{
+                start = mid+1;
             }
         }
 
-        return start;
+        return start+1;
     }
 }
