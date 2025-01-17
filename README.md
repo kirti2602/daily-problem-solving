@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/kirti2602/daily-problem-solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/kirti2602/daily-problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
@@ -51,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kirti2602/daily-problem-solving/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
