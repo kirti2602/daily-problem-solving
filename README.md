@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
@@ -38,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kirti2602/daily-problem-solving/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 ## Hash Table
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kirti2602/daily-problem-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -95,4 +98,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
