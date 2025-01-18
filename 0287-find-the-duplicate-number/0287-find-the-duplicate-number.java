@@ -1,22 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
+        int[] newArr = Arrays.copyOf(nums, nums.length);
         int i = 0;
-        while(i < nums.length){
-            int correctIndex = nums[i] - 1;
+        while(i < newArr.length){
+            int correctIndex = newArr[i] - 1;
 
-            if(nums[i] != nums[correctIndex]){
+            if(newArr[i] != newArr[correctIndex]){
                 //swap
-                int temp = nums[i];
-                nums[i] = nums[correctIndex];
-                nums[correctIndex] = temp;
+                int temp = newArr[i];
+                newArr[i] = newArr[correctIndex];
+                newArr[correctIndex] = temp;
             }else{
                 i++;
             }
         }
 
-        for(int j = 0; j < nums.length; j++){
-            if(nums[j] != j+1){
-                return nums[j];
+        for(int j = 0; j < newArr.length; j++){
+            if(newArr[j] != j+1){
+                return newArr[j];
             }
         }
 
