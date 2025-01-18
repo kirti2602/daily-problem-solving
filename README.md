@@ -15,6 +15,7 @@
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kirti2602/daily-problem-solving/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -52,6 +53,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kirti2602/daily-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kirti2602/daily-problem-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -65,6 +67,7 @@
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kirti2602/daily-problem-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
