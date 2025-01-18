@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kirti2602/daily-problem-solving/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/kirti2602/daily-problem-solving/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/kirti2602/daily-problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirti2602/daily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/kirti2602/daily-problem-solving/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirti2602/daily-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
