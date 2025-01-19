@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirti2602/daily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kirti2602/daily-problem-solving/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirti2602/daily-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
@@ -98,6 +101,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
 |  |
@@ -109,4 +113,8 @@
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
