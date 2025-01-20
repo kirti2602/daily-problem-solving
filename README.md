@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
