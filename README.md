@@ -22,6 +22,7 @@
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kirti2602/daily-problem-solving/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kirti2602/daily-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kirti2602/daily-problem-solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -38,6 +39,7 @@
 | [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kirti2602/daily-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
@@ -143,5 +145,6 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kirti2602/daily-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
