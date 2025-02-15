@@ -38,6 +38,7 @@
 | [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,8 +138,10 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
