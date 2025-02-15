@@ -35,6 +35,7 @@
 | [0069-sqrtx](https://github.com/kirti2602/daily-problem-solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kirti2602/daily-problem-solving/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
 ## Hash Table
