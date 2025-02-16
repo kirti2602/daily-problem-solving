@@ -35,6 +35,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/kirti2602/daily-problem-solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kirti2602/daily-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/kirti2602/daily-problem-solving/tree/master/1013-fibonacci-number) |
@@ -145,6 +146,11 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kirti2602/daily-problem-solving/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kirti2602/daily-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/kirti2602/daily-problem-solving/tree/master/2507-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kirti2602/daily-problem-solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
