@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirti2602/daily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/kirti2602/daily-problem-solving/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirti2602/daily-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
