@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/kirti2602/daily-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kirti2602/daily-problem-solving/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kirti2602/daily-problem-solving/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kirti2602/daily-problem-solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -63,6 +64,7 @@
 | [0367-valid-perfect-square](https://github.com/kirti2602/daily-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/kirti2602/daily-problem-solving/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
+| [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
 ## Counting
 |  |
 | ------- |
