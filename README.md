@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kirti2602/daily-problem-solving/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kirti2602/daily-problem-solving/tree/master/0041-first-missing-positive) |
@@ -136,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
