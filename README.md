@@ -20,6 +20,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/kirti2602/daily-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kirti2602/daily-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kirti2602/daily-problem-solving/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kirti2602/daily-problem-solving/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kirti2602/daily-problem-solving/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
