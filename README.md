@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/kirti2602/daily-problem-solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kirti2602/daily-problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kirti2602/daily-problem-solving/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
