@@ -17,6 +17,7 @@
 | [0118-pascals-triangle](https://github.com/kirti2602/daily-problem-solving/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kirti2602/daily-problem-solving/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kirti2602/daily-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
@@ -146,6 +148,7 @@
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kirti2602/daily-problem-solving/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0852-friends-of-appropriate-ages](https://github.com/kirti2602/daily-problem-solving/tree/master/0852-friends-of-appropriate-ages) |
 ## Counting
