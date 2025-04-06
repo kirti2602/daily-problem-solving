@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kirti2602/daily-problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kirti2602/daily-problem-solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0189-rotate-array) |
