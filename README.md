@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kirti2602/daily-problem-solving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kirti2602/daily-problem-solving/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/kirti2602/daily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kirti2602/daily-problem-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0287-find-the-duplicate-number) |
@@ -81,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kirti2602/daily-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kirti2602/daily-problem-solving/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kirti2602/daily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kirti2602/daily-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/kirti2602/daily-problem-solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kirti2602/daily-problem-solving/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kirti2602/daily-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kirti2602/daily-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kirti2602/daily-problem-solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kirti2602/daily-problem-solving/tree/master/0645-set-mismatch) |
